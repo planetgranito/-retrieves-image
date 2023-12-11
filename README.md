@@ -1,1 +1,1 @@
-# -retrieves-image
+This Python library serves as  the Cloud Vision Product Search Library. It simplifies the use of this tool by enabling you to set up a ProductSearch object with your credentials just once. The library is object-oriented, reducing the need to manage names, paths, and project IDs constantly.
